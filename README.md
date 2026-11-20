@@ -40,7 +40,7 @@ endmodule
 # **Test Bench Program**
 module tb2;
 
-    reg a, b;
+    eg a, b;
     wire y_and, y_or, y_not;
 
     // Instantiate the design under test (DUT)
